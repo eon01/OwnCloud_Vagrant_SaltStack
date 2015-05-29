@@ -1,1 +1,0 @@
-{"virtualbox":{"/srv/salt":{"guestpath":"/srv/salt","hostpath":"/home/eon/vagrant_owncloud/salt/roots","disabled":false},"/srv/formulas":{"guestpath":"/srv/formulas","hostpath":"/home/eon/vagrant_owncloud/salt/formulas","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/eon/vagrant_owncloud","disabled":false}}}
