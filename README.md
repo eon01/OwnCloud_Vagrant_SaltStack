@@ -38,3 +38,5 @@ vagrant up
 >   - **OwnCloud Formula** https://github.com/saltstack-formulas/owncloud-formula
 >   - **Vagrant** https://github.com/mitchellh/vagrant
 
+## Author
+Created by [Aymen El Amri](http://eon01.com/blog) as part of  [SaltStack for DevOps](https://leanpub.com/saltstackfordevops/).
