@@ -14,18 +14,10 @@ Vagrant.configure(2) do |config|
     salt.log_level = 'all'
     salt.pillar({
       "owncloud" => {
-        "owncloudpass" => "SetAPassword"
+        "owncloud_user" => "user",
+        "owncloud_password" => "password",
+        "owncloud_database" => "database",
        }
     })
   end
-
-  config.vm.provider "virtualbox" do |v|
-    v.name = "owncloud_dev"
-  end
-
-
-
-
-
-
 end
