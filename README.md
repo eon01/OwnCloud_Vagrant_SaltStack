@@ -34,7 +34,7 @@ Type http://127.0.0.1/owncloud to access to your local OwnCloud instance.
 > **Note:**
 
 > - OwnCloud can work with Sqlite, Mysql or Postgresql databases. In my case, I am working with Mysql.
-> - You should change the password of the user owncloud (Mysql). Find it in 'Vagrant' file.
+> - You should change the password, the user and tha database name (Mysql)...etc : Find them in 'Vagrant' file.
 > - I am using :
 >   - **OwnCloud Formula** https://github.com/saltstack-formulas/owncloud-formula
 >   - **Vagrant** https://github.com/mitchellh/vagrant
