@@ -29,7 +29,7 @@ Finally:
 vagrant up
 ```
 
-Type http://127.0.0.1/owncloud to access to your local OwnCloud instance.
+Type http://127.0.0.1:4567/owncloud to access to your local OwnCloud instance.
 
 > **Note:**
 
